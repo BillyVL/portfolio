@@ -5,4 +5,4 @@ This website helped me learn and practice the following: semantic containers (ma
 styled links using pseudo classes, various headers, absolute & relative links, and many different CSS properties. 
 
 Thank you to the Thinkful Engineering Flex program for their guidance and support.
-Also shoutout to Porter Lyman.
+Also shoutout to my mentor Porter Lyman.
