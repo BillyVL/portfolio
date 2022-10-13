@@ -1,0 +1,69 @@
+/*gets rid of unneccessary space on top*/
+h1, body{
+    margin: 0;
+}
+
+h2{
+    padding-left: 875px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+ul{
+    padding: 10px 0px;
+}
+
+hr{
+    margin: 20px;
+}
+
+/*gives more space and color to title (top of page)*/
+.intro{
+    background-color: darkred;
+    height: 90px;
+    color: white;
+}
+
+.title, .jobtitle{
+    text-align: center;
+    
+}
+
+img{
+    padding-left: 700px;
+}
+
+.where, ul, .passion, .look{
+    padding-left: 750px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+/*line-height spaces out the lines*/
+.aboutParagraphs{
+    width: 400px;
+    padding-left: 725px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+.contact{
+    padding-left: 725px;
+}
+
+ol{
+    padding-left: 750px;
+}
+
+/*pushes itself a little bit further down the page & increases in size*/
+footer{
+    margin: 50px 0 0 0;
+    padding: 10px;
+    text-align: center;
+    background-color: darkred;
+}
+
+/*pseudo classes*/
+a:link    { color: red;  }
+a:visited { color: blue;   }
+a:hover   { color: purple; }
+a:active  { color: pink;  }
